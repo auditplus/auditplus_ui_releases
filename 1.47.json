@@ -1,7 +1,7 @@
 {
-  "version": "1.67.0",
-  "downloadUrl": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.67.0%2B1-windows-setup.exe",
-  "windows": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.67.0%2B1-windows-setup.exe",
-  "android": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.67.0%2B1-android.apk",
-  "web": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.67.0%2B1-web.zip"
+  "version": "1.68.0",
+  "downloadUrl": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.68.0%2B1-windows-setup.exe",
+  "windows": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.68.0%2B1-windows-setup.exe",
+  "android": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.68.0%2B1-android.apk",
+  "web": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.68.0%2B1-web.zip"
 }
