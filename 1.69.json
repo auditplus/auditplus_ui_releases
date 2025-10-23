@@ -1,5 +1,5 @@
 {
-  "version": "1.99.0",
-  "windows": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.99.0%2B1-windows-setup.exe",
-  "android": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.99.0%2B1-android.apk"
+  "version": "1.100.0",
+  "windows": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.100.0%2B1-windows-setup.exe",
+  "android": "https://auditplus-desktop-releases.s3.ap-south-1.amazonaws.com/auditplus_ui-1.100.0%2B1-android.apk"
 }
